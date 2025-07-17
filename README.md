@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/masatoshi118-mcp-google-froms-badge.jpg)](https://mseep.ai/app/masatoshi118-mcp-google-froms)
+
 # Google Forms MCP Server
 
 このMCPサーバーは、Google FormsのAPIを使用して、フォームの作成、編集、回答の取得などの機能を提供します。
